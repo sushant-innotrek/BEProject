@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "936448071110",
+    "firebase_url": "https://srts-9b3fb.firebaseio.com",
+    "project_id": "srts-9b3fb",
+    "storage_bucket": "srts-9b3fb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:936448071110:android:623c7523d858d32d",
+        "android_client_info": {
+          "package_name": "www.SRTS.in"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "936448071110-mdrtgjrjncugr7c15mg3epqs0qfiahq4.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "www.SRTS.in",
+            "certificate_hash": "9bde85b7073e38766a2a3b086ced0e490ba43223"
+          }
+        },
+        {
+          "client_id": "936448071110-ihfkdc9l9hlkhu4pssvdqov579lg4r2k.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCwFxoXW1Y4FV1y98B4yktZ7sLU9CtyXdw"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "936448071110-ihfkdc9l9hlkhu4pssvdqov579lg4r2k.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
